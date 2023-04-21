@@ -8,4 +8,4 @@ Atividade sobre GITHUB - ADS UNICESUMAR
   }
   	```
     
-    Atividade entregue. :alegria:
+   tividade entregue. :joy:
